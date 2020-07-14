@@ -87,3 +87,8 @@ module "sms"
     SENDGRID_API_KEY        = var.SENDGRID_API_KEY
 }
 ```
+
+# Acknowledgments
+- https://www.youtube.com/watch?v=JRCJ6RtE3xU
+- https://stackabuse.com/how-to-send-emails-with-gmail-using-python/
+- https://sendgrid.com/docs/for-developers/sending-email/v3-python-code-example/
