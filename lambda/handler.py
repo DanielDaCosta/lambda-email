@@ -47,6 +47,6 @@ if __name__ == '__main__':
     event = {'data': [{
         'subject': 'test',
         'message': 'asdadasdasdasdas',
-        'to': 'daniel.pereiracosta@hotmail.com'
+        'to': 'teste@hotmail.com'
     }]}
     lambda_handler(event, None)
