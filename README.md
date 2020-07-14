@@ -30,7 +30,7 @@ This repo has both Sendgrid and stmlib implentations! Chose the one that you pre
 
 # Usage
 
-This modules reads all its from Lambda Environment variables, as it can be seen in the file *config.py*.
+This modules reads all its variables from Lambda Environment variables, as it can be seen in the file *config.py*.
 
 For sendGrid credentials, you can create your free account in their website: https://sendgrid.com
 
