@@ -72,7 +72,8 @@ def lambda_handler(event, context):
 
 
 if __name__ == '__main__':
-    event = {'data': [{
+    event = {
+        'data': [{
         'subject': 'HELLO THERE!',
         'message': 'NICE MEETING YOY',
         'to': 'TEST_EMAIL@gmail.com'
