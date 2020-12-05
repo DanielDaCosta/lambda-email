@@ -38,7 +38,7 @@ For sendGrid credentials, you can create your free account in their website: htt
 
 Lambda *asynchronous invocation* is preferable
 
-```
+```python
 import json
 import boto3
 from config import MS_SMS
@@ -73,7 +73,7 @@ def send_sms(messages_array):
 
 ## Calling module
 
-```
+```terraform
 # Module 
 module "sms" 
     source = "git@github.com:DanielDaCosta/lambda-email.git"
