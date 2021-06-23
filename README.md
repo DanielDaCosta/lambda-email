@@ -1,4 +1,4 @@
-# lambda-email
+# Lambda Email
 
 Lambda that sends email to user, built using Terraform. It receives an array of dictionaries containing
 email subject, content and the email to receive the message.
