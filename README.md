@@ -34,7 +34,7 @@ This modules reads all its variables from Lambda Environment variables, as it ca
 
 For sendGrid credentials, you can create your free account in their website: https://sendgrid.com
 
-## Example of lambda call.
+## Example of lambda call
 
 Lambda *asynchronous invocation* is preferable
 
