@@ -88,7 +88,7 @@ module "sms"
 }
 ```
 
-# Acknowledgments
+# References & Acknowledgments
 - https://www.youtube.com/watch?v=JRCJ6RtE3xU
 - https://stackabuse.com/how-to-send-emails-with-gmail-using-python/
 - https://sendgrid.com/docs/for-developers/sending-email/v3-python-code-example/
