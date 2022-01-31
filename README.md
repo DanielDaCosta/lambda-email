@@ -36,7 +36,7 @@ For sendGrid credentials, you can create your free account in their website: htt
 
 ## Example of lambda call
 
-Lambda *asynchronous invocation* is preferable
+Lambda *asynchronous invocation* is preferable:
 
 ```python
 import json
